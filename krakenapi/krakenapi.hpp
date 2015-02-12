@@ -1,5 +1,0 @@
-#ifndef KRAKENAPI_HPP
-#define KRAKENAPI_HPP
-
-#endif // KRAKENAPI_HPP
-
